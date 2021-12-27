@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.quadradoCentro{
+    margin: 20px auto 100px auto;
+    padding-top: 5px;
+    border: 1px solid red;
+    border-radius: 30px;
+    width: 50%;
+    text-align: center;
+    background-color: white;
+}
+img{
+    max-width:100%;
+	height:auto;
+    width: 100px;
+    padding: 20px;
+}
+
+img#pedra:active, #papel:active, #tesoura:active{
+  width: 95px;
+}
+
+.opcoesUser{
+    max-width:100%;
+	height:auto;
+    border: 1px solid black;
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+#img{
+    border: 1px solid black;
+    margin: auto;
+    width: 150px;
+    margin-top: 10px;
+}
+.imgTopo{
+    max-width:100%;
+	height:auto;
+    width: 600px;
+    height: 200px;
+    padding: 0;
+}
