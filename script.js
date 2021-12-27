@@ -23,9 +23,9 @@ function chamaTesoura() {
 function sortearPc() {
   let img = document.getElementById("img");
 
-  let pedra = "<img src='../img/pedra.png'></img>";
-  let papel = "<img src='../img/papel.png'></img>";
-  let tesoura = "<img src='../img/tesoura.png'></img>";
+  let pedra = "<img src='img/pedra.png'></img>";
+  let papel = "<img src='img/papel.png'></img>";
+  let tesoura = "<img src='img/tesoura.png'></img>";
 
   joken.push(pedra, papel, tesoura);
 
